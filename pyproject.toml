@@ -5,8 +5,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "response-body-issue"
 version = "0.1.0"
-description = ""
+description = "Java library of standardized HTTP response bodies."
 readme = "README.md"
+license = { file = "LICENSE" }
 requires-python = ">=3.11"
 authors = [
     { name = "Matoshix", email = "maksimpest7@gmail.com" }
